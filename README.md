@@ -15,11 +15,11 @@ This project is currently in the **planning phase**, and features are **yet to b
 **Automated Remediation Suggestions** – AI recommends corrective actions based on past cases.  
 **Conversational AI for Compliance Queries** – Users can ask compliance-related questions and get AI-driven responses.  
 
-🚧 **These features are yet to be implemented.**  
+**These features are yet to be implemented.**  
 
 ---
 
-## 🛠️ Tech Stack (Planned)
+## Tech Stack (Planned)
 - **AI & NLP:** OpenAI GPT-4, spaCy, Tesseract OCR  
 - **Machine Learning:** TensorFlow/PyTorch  
 - **RPA (Automation):** UiPath / Automation Anywhere  
